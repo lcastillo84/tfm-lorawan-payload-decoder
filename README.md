@@ -1,7 +1,3 @@
-# tfm-lorawan-payload-decoder
-
-Código para función Lambda que decodifica payload de sensores LoRaWAN
-
 # Decodificador de payload LoRaWAN para AWS Lambda
 
 ### Autor: Luis Castillo
